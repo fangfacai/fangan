@@ -1,0 +1,155 @@
+*
+{
+    margin:0;
+    padding:0;
+    margin-left: auto;
+	margin-right: auto;
+}
+body
+{
+    background-image: url("img/bg.jpg" );
+   background-size:  1800px 1500px ;
+   background-repeat: repeat;
+   width:1600px;
+}
+.top
+{
+    width:1000px;
+    height:150px;
+    border-bottom:1px solid rgb(22, 1, 71);
+    margin: 10px auto;
+
+
+}
+.pic
+{
+    display: inline;
+    margin-top:20px;
+    margin-left:100px;
+
+}
+.title
+{   
+    width:500px;
+    height:80px;
+    line-height: 80px;;
+    display: inline;
+    font-size:40px;
+    margin-left:60px;
+    color:rgb(27, 3, 43);
+    font-family: 华文新魏;
+}
+.introduction
+{
+    margin:auto 0;
+    color:rgb(71, 70, 70);
+    font-size:20px;
+    margin-left:400px;
+    width:1000px;
+    height:60px;
+    display: block;
+    font-family: 楷体;
+}
+.biaoqing
+{
+    float:left;
+    margin-left:50px;
+    margin-top:20px;
+}
+.part1
+{
+   width:1000px;
+   height:200px;
+   margin:10px auto 20px auto;
+   border:1px solid #0f4775;
+}
+.question
+{
+    width:1000px;
+    height:30px;
+    line-height: 30px;
+    background-color: #011a24;
+    font-weight: bold;
+    font-size:18px;
+    float:left;
+    color:white;
+}
+.check
+{
+    margin-top:30px;
+    margin-left:40px;
+    line-height: 30px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+}
+.part2
+{
+   display: block;
+   width:1000px;
+   height:200px;
+   margin:10px auto 20px auto;
+   border:1px solid #032e25;
+}
+#text
+{
+    width:400px;
+    margin:50px 560px auto auto;
+}
+.question2
+{   
+    padding-top: 10px;
+    padding-left:10px;
+    width:800px;
+    height:70px;
+    font-size: 20px;
+    margin:25px auto 20px auto;
+    font-family:仿宋;
+}
+.message
+{
+    width:900px;
+    height:200px;
+    margin:10px auto 10px auto;
+    border:1px solid #032e25;
+    padding:50px 50px ;
+    font-size: 20px;
+    font-family: 宋体;
+    
+}
+.pic2
+{
+   float:right;
+   width:50px;
+   height:50px;
+   margin-right:600px;
+   margin-top: 10px;
+   display: inline;
+}
+#submit
+{
+    height:50px;
+    width:1000px;
+    margin:30px auto;
+    font-weight: bold;
+}
+input[type=submit]
+{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    width:70px;
+    height:40px;
+    line-height: 20px;
+    margin-left:450px;
+    margin-top:5px;  
+    background-color: #0a6868;
+    text-align: center;
+    border-radius: 10px;
+    border-color:#000000 ;
+    border-width: 1px;
+}
+input[type=submit]:hover
+{
+    background-color:#000000;
+}

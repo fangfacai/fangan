@@ -1,0 +1,135 @@
+*
+{
+    margin:0;
+    padding:0;
+    margin-left: auto;
+	margin-right: auto;
+}
+body
+{
+  
+   margin-top:30px;
+   background-image: url("img/bg.jpg" );
+   background-size:  1800px 1500px ;
+   background-repeat: repeat;
+   width:1400px;
+
+  }
+  .picwenzi
+  {
+      font-family: 仿宋;
+  }
+  .pic
+  {
+   
+      width:248px;
+    height:348px;
+  }
+.title
+{
+    width:400px;
+    height:40px;
+    display: inline;
+    float:left;
+    font-family: 华文新魏;
+}
+.Name
+{
+    display: inline;
+    float:left;
+    margin-left:50px;
+    margin-top:30px;
+}
+.singer
+{
+    display: inline;
+    float:left;
+    padding-top:10px;
+    margin-top:20px;
+}
+.introduction
+{
+    width:900px;
+    height:200px;
+    float:left;
+    font-size:16px;
+    font-family: 宋体;
+    margin-top:30px;
+    margin-left:50px;
+    line-height: 30px;
+    
+}
+.a1:link
+{
+    display: inline;
+    color:cornflowerblue;
+    text-decoration: none;
+}
+.a1:hover
+{
+    text-decoration: underline;
+}
+.a1:visited
+{
+    color:cornflowerblue;
+}
+.table
+{
+    width:800px;
+    height:200px;
+    margin-top: 50px;
+    float:left;
+    margin-left:50px;
+    
+}
+td {
+    border-bottom: 1px dotted gray;
+    text-align: center;
+    width:200px;
+    height:30px;
+  }
+.t1
+{
+    color:rgb(126, 123, 123);
+    font-weight: bold;
+}
+  .mulu
+  {
+      float:left;
+      width:500px;
+      height:300px;
+      margin-left: 50px;
+    
+    
+  }
+.left
+{
+    display: inline;
+    width:100px;
+    height: 110px;
+    float:left;
+    text-align: center;
+    padding-top:30px;
+    font-size:30px;
+    margin-top:10px;
+    color:rgb(11, 11, 94);
+    background-color: rgba(128, 128, 128, 0.212);
+    border-right:1px rgba(128, 128, 128, 0.473) solid;
+}
+.right
+{
+    display: inline;
+    width:300px;
+    height: 110px;
+    float:left;
+    line-height: 35px;
+    padding-top:10px;
+    padding-left: 20px;
+    
+}
+.pic
+{
+    float:right;
+    margin-left:5px;
+    width:300px;
+}
